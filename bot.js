@@ -258,7 +258,7 @@ client.on('ready', () => {
 	} 
 
 
-client.login(config.token)
+client.login("NTkxNTE1MDcxMzk4Njc0NDQy.Xkk0sA.WIpA30IOjZodxV831w-6dLmJosE")
 	.then(function() {
 		console.log("Authentication Complete!".green);
 	}, function(err) {
